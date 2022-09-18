@@ -1,0 +1,325 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "StandLight_Clock_Temperature_Distance_PWM"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"target_link_libraries",
+			"target_compile_options",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 5,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 43,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 48,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 27,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Wall"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 4,
+					"path" : "/home/ubuntu/project/StandLight_Clock_Temperature_Distance_PWM/./src/app"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "/home/ubuntu/project/StandLight_Clock_Temperature_Distance_PWM/./src/app/Service"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "/home/ubuntu/project/StandLight_Clock_Temperature_Distance_PWM/./src/app/Listener"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "/home/ubuntu/project/StandLight_Clock_Temperature_Distance_PWM/./src/app/Controller"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "/home/ubuntu/project/StandLight_Clock_Temperature_Distance_PWM/./src/app/View"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "/home/ubuntu/project/StandLight_Clock_Temperature_Distance_PWM/./src/hw/PWM"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "/home/ubuntu/project/StandLight_Clock_Temperature_Distance_PWM/./src/hw/UltraSonic"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "/home/ubuntu/project/StandLight_Clock_Temperature_Distance_PWM/./src/hw/DHT11"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "/home/ubuntu/project/StandLight_Clock_Temperature_Distance_PWM/./src/hw/Button"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "/home/ubuntu/project/StandLight_Clock_Temperature_Distance_PWM/./src/hw/Led"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "/home/ubuntu/project/StandLight_Clock_Temperature_Distance_PWM/./src/hw/ClockCheck"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "/home/ubuntu/project/StandLight_Clock_Temperature_Distance_PWM/./src/hw/LCD"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "/home/ubuntu/project/StandLight_Clock_Temperature_Distance_PWM/./src/hw/I2C"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18
+			]
+		}
+	],
+	"id" : "StandLight_Clock_Temperature_Distance_PWM::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-rdynamic",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "-lwiringPi",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "-lpthread",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "StandLight_Clock_Temperature_Distance_PWM",
+	"nameOnDisk" : "StandLight_Clock_Temperature_Distance_PWM",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/app/Service/ServicePWM.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/app/Service/TempHumidService.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/app/Service/ClockService.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/app/Service/Service.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/app/Listener/Listener.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/app/Controller/Controller.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/app/View/ViewPWM.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/app/View/TempHumidView.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/app/View/View.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/app/View/ClockView.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/hw/PWM/PWM.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/hw/UltraSonic/UltraSonic.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/hw/DHT11/DHT11.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/hw/Button/Button.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/hw/Led/Led.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/hw/ClockCheck/ClockCheck.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/hw/LCD/LCD.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/hw/I2C/I2C.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}
