@@ -185,4 +185,4 @@ CMakeFiles/StandLight_Clock_Temperature_Distance_PWM.dir/src/app/Service/TempHum
  /usr/include/string.h /usr/include/strings.h \
  /home/ubuntu/project/StandLight_Clock_Temperature_Distance_PWM/./src/hw/Led/Led.h \
  /usr/local/include/wiringPi.h \
- /home/ubuntu/project/StandLight_Clock_Temperature_Distance_PWM/./src/app/Temp.h
+ /home/ubuntu/project/StandLight_Clock_Temperature_Distance_PWM/src/app/Service/Temp.h

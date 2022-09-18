@@ -186,7 +186,7 @@ CMakeFiles/StandLight_Clock_Temperature_Distance_PWM.dir/src/main.cpp.o: \
  /usr/include/string.h /usr/include/strings.h \
  /home/ubuntu/project/StandLight_Clock_Temperature_Distance_PWM/./src/hw/DHT11/DHT_Data.h \
  /home/ubuntu/project/StandLight_Clock_Temperature_Distance_PWM/./src/hw/DHT11/DHT_Data.h \
- /home/ubuntu/project/StandLight_Clock_Temperature_Distance_PWM/./src/app/Temp.h \
+ /home/ubuntu/project/StandLight_Clock_Temperature_Distance_PWM/./src/app/Service/Temp.h \
  /home/ubuntu/project/StandLight_Clock_Temperature_Distance_PWM/./src/app/Service/ClockService.h \
  /home/ubuntu/project/StandLight_Clock_Temperature_Distance_PWM/./src/app/View/ClockView.h \
  /home/ubuntu/project/StandLight_Clock_Temperature_Distance_PWM/./src/app/Service/TempHumidService.h \

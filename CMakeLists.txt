@@ -25,7 +25,6 @@ add_executable(${PROJECT_NAME}
 )
 
 target_include_directories(${PROJECT_NAME} PUBLIC
-    ./src/app
     ./src/app/Service
     ./src/app/Listener
     ./src/app/Controller

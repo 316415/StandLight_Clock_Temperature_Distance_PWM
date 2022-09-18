@@ -1,6 +1,7 @@
 #ifndef __LISTENER_H__
 #define __LISTENER_H__
 
+#include <wiringPi.h>
 #include "Button.h"
 #include "Controller.h"
 #include "ClockCheck.h"

@@ -1,6 +1,4 @@
 #include "View.h"
-#include "LightState.h"
-#include <wiringPi.h>
 
 View::View(Led *led1, Led *led2, Led *led3, Led *led4, Led *led5, LCD *lcd)
 {

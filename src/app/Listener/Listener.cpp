@@ -1,5 +1,4 @@
 #include "Listener.h"
-#include <wiringPi.h>
 
 Listener::Listener(Button *button, Button *powerButton, Button *stopWatchButton, Button *PWM_Button, Button *motorStateButton, Controller *control, ClockCheck *time, DHT11 *dht11, UltraSonic *ultraSonic)
 {

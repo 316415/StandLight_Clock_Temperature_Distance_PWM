@@ -2,8 +2,10 @@
 #define __VIEW_H__
 
 #include <string>
+#include <wiringPi.h>
 #include "Led.h"
 #include "LCD.h"
+#include "LightState.h"
 
 class View
 {
