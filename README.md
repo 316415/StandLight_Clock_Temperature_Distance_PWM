@@ -28,5 +28,9 @@
 
 //버튼이 5개인 이유는 power button을 두어 전체 동작을 멈추는 버튼이 있기 때문이다. 그러나 power button을 통해서 하드웨어가 동작하지 않는다.(on off가 아니라 off만 된다.) 각 하드웨어는 각 하드웨어 버튼으로만 동작한다.
 
+![제목 없는 다이어그램 drawio (10)](https://user-images.githubusercontent.com/82801399/197735507-eb46c5c6-6a6c-43e6-b79e-3d0f07de4f40.png)
+
+![제목 없는 다이어그램 drawio (11)](https://user-images.githubusercontent.com/82801399/197735599-4f4fe2ec-ee5f-4a84-a6b9-260b6d6c8302.png)
+
 
 https://mgchoi.tistory.com/18
