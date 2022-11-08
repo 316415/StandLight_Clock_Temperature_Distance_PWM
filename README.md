@@ -33,9 +33,29 @@
 ![제목 없는 다이어그램 drawio (11)](https://user-images.githubusercontent.com/82801399/197735599-4f4fe2ec-ee5f-4a84-a6b9-260b6d6c8302.png)
 
 
+마무리날짜 2022.09.18
 https://mgchoi.tistory.com/18
 
-
+최종 동작
 https://youtu.be/lPyY8hAvqXM
 
+history
+1일차 2022.09.13.
+https://mgchoi.tistory.com/15
+https://github.com/316415/StandLight
 
+2일차 2022.09.14.
+https://mgchoi.tistory.com/16
+https://github.com/316415/StandLight_Clock
+https://www.youtube.com/shorts/hC6RY70rdlw
+
+3일차 2022.09.15.
+https://mgchoi.tistory.com/17
+https://github.com/316415/StandLight_Clock_Temperature
+
+4일차 2022.09.16.
+https://mgchoi.tistory.com/18
+https://github.com/316415/StandLight_Clock_Temp_Distance
+
+마무리날짜 2022.09.18 : 주말에 한 부분은 블로그 기준 분리하지 않음.
+https://mgchoi.tistory.com/18
