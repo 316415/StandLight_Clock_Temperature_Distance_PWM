@@ -42,19 +42,24 @@ https://youtu.be/lPyY8hAvqXM
 history
 1일차 2022.09.13.
 https://mgchoi.tistory.com/15
+
 https://github.com/316415/StandLight
 
 2일차 2022.09.14.
 https://mgchoi.tistory.com/16
+
 https://github.com/316415/StandLight_Clock
+
 https://www.youtube.com/shorts/hC6RY70rdlw
 
 3일차 2022.09.15.
 https://mgchoi.tistory.com/17
+
 https://github.com/316415/StandLight_Clock_Temperature
 
 4일차 2022.09.16.
 https://mgchoi.tistory.com/18
+
 https://github.com/316415/StandLight_Clock_Temp_Distance
 
 마무리날짜 2022.09.18 : 주말에 한 부분은 블로그 기준 분리하지 않음.
